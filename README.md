@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+
 # Voice Assistant Project
 
 This is a simple Python-based voice assistant project that uses voice commands to provide various functionalities, such as telling the current time, date, weather, giving compliments, and performing basic calculations. The assistant also responds to a wake word using the Picovoice Porcupine library for wake-word detection.
